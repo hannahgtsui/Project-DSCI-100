@@ -16,10 +16,10 @@ unemployment and lower financial inclusion show greater cryptocurrency
 adoption — suggesting crypto fills a gap left by traditional systems.
 
 ## Hypotheses
-- **H1:** Countries with higher youth unemployment rates have higher crypto adoption
-- **H2:** Countries with lower bank account access have higher crypto adoption
-- **H3:** Youth unemployment and financial exclusion together are stronger predictors of crypto adoption than GDP alone
-- **H4:** High-adopting countries cluster into distinct economic archetypes based on vulnerability indicators
+1: Countries with higher youth unemployment rates have higher crypto adoption
+2: Countries with lower bank account access have higher crypto adoption
+3: Youth unemployment and financial exclusion together are stronger predictors of crypto adoption than GDP alone
+4:High-adopting countries cluster into distinct economic archetypes based on vulnerability indicators
 
 ## Data Sources
 
