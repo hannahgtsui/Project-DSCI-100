@@ -4,25 +4,31 @@
 - hannahgtsui
 - kaheitang
 
-## Project Topic
-We are investigating whether youth unemployment rates are associated with 
-higher cryptocurrency adoption across countries, and what economic factors 
-best predict a country's crypto adoption level.
-
 ## Research Question
-Do countries with higher youth unemployment rates show greater cryptocurrency 
-adoption — and what economic profile best predicts whether a country adopts crypto?
+Do economically vulnerable youth turn to cryptocurrency? 
+Examining the relationship between youth unemployment, financial exclusion, and crypto adoption across countries.
+
+## Background
+As traditional employment and banking systems fail young people in 
+many countries, cryptocurrency has emerged as an alternative financial 
+tool. This project investigates whether countries with higher youth 
+unemployment and lower financial inclusion show greater cryptocurrency 
+adoption — suggesting crypto fills a gap left by traditional systems.
 
 ## Hypotheses
 - **H1:** Countries with higher youth unemployment rates have higher crypto adoption
-- **H2:** Youth unemployment and lack of banking access are stronger predictors 
-  of crypto adoption than GDP alone
-- **H3:** High-adopting countries form distinct economic archetypes
+- **H2:** Countries with lower bank account access have higher crypto adoption
+- **H3:** Youth unemployment and financial exclusion together are stronger predictors of crypto adoption than GDP alone
+- **H4:** High-adopting countries cluster into distinct economic archetypes based on vulnerability indicators
 
 ## Data Sources
 
 ## Methods
-- Correlation Analysis
-- Regression (Linear + Random Forest)
-- Classification (High / Mid / Low adopter)
-- Clustering (K-Means)
+- **Correlation Analysis** — identify which vulnerability indicators 
+  relate most strongly to crypto adoption
+- **Regression** — predict adoption rank using economic features 
+  (Linear + Random Forest)
+- **Classification** — classify countries as High / Medium / Low 
+  adopters using vulnerability indicators
+- **Clustering** — discover natural groupings of countries based on 
+  economic vulnerability profiles
