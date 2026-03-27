@@ -5,30 +5,30 @@
 - kaheitang
 
 ## Research Question
-Do economically vulnerable youth turn to cryptocurrency? 
-Examining the relationship between youth unemployment, financial exclusion, and crypto adoption across countries.
+To what extent do monetary instability and financial access influence cryptocurrency adoption across countries?
 
 ## Background
-As traditional employment and banking systems fail young people in 
-many countries, cryptocurrency has emerged as an alternative financial 
-tool. This project investigates whether countries with higher youth 
-unemployment and lower financial inclusion show greater cryptocurrency 
-adoption — suggesting crypto fills a gap left by traditional systems.
+Cryptocurrency has emerged as an alternative financial system, particularly in environments where traditional monetary systems are unstable or inaccessible. Rather than focusing on labor market conditions, this project examines whether broader structural factors—such as inflation and access to financial services—better explain cross-country differences in crypto adoption.
+
+The objective is to understand whether cryptocurrency adoption reflects a response to unstable currencies and limited financial infrastructure.
 
 ## Hypotheses
-- 1: Countries with higher youth unemployment rates have higher crypto adoption
-- 2: Countries with lower bank account access have higher crypto adoption
-- 3: Youth unemployment and financial exclusion together are stronger predictors of crypto adoption than GDP alone
-- 4: High-adopting countries cluster into distinct economic archetypes based on vulnerability indicators
+- 1.	Countries experiencing higher inflation rates are associated with higher levels of cryptocurrency adoption
+- 2.	Countries with lower access to banking services exhibit higher crypto adoption
+- 3.	Combined indicators of monetary instability and financial access (inflation, bank access, GDP) better explain crypto adoption than any single variable alone
+- 4.	Countries with high crypto adoption cluster into distinct economic profiles based on structural vulnerability
 
-## Data Sources
-
-## Methods
-- **Correlation Analysis** — identify which vulnerability indicators 
-  relate most strongly to crypto adoption
-- **Regression** — predict adoption rank using economic features 
-  (Linear + Random Forest)
-- **Classification** — classify countries as High / Medium / Low 
-  adopters using vulnerability indicators
-- **Clustering** — discover natural groupings of countries based on 
-  economic vulnerability profiles
+## Data Sources 
+	•	World Bank — Youth Unemployment
+	•	World Bank — GDP
+	•	Crypto Adoption Index (2024)
+	•	Financial Inclusion / Banking Access data
+Methods
+- Exploratory Analysis (Scatter Plots)
+Visualize relationships between inflation, financial access, and crypto adoption
+- Correlation Analysis
+Assess strength and direction of relationships
+- Regression Analysis
+Evaluate how inflation, bank access, and GDP jointly explain crypto adoption
+- Clustering
+Identify groups of countries with similar economic conditions
