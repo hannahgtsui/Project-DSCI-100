@@ -24,11 +24,11 @@ The objective is to understand whether cryptocurrency adoption reflects a respon
 	•	Crypto Adoption Index (2024)
 	•	Financial Inclusion / Banking Access data
 Methods
-	•	Exploratory Analysis (Scatter Plots)
+- ## Exploratory Analysis (Scatter Plots)
 Visualize relationships between inflation, financial access, and crypto adoption
-	•	Correlation Analysis
+- ## Correlation Analysis
 Assess strength and direction of relationships
-	•	Regression Analysis
+- ## Regression Analysis
 Evaluate how inflation, bank access, and GDP jointly explain crypto adoption
-	•	Clustering
+- ## Clustering
 Identify groups of countries with similar economic conditions
