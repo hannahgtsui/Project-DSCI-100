@@ -1,34 +1,23 @@
-# Project-DSCI-100
+DSCI 100 Project
+How Do Economic and Structural Influences Affect Cryptocurrency Adoption Across Countries?
+Group Members
 
-## Group Members
-- hannahgtsui
-- kaheitang
+hannahgtsui
+kaheitang
 
-## Research Question
-To what extent do monetary instability and financial access influence cryptocurrency adoption across countries?
+## Introduction
+As traditional financial and economic systems face increasing strain in many parts of the world, cryptocurrency has emerged as a potential alternative financial tool. This project examines whether broader forms of economic vulnerability — such as financial exclusion, income levels, macroeconomic instability, and structural differences including corruption — are associated with higher levels of cryptocurrency adoption across countries.
 
-## Background
-Cryptocurrency has emerged as an alternative financial system, particularly in environments where traditional monetary systems are unstable or inaccessible. Rather than focusing on labor market conditions, this project examines whether broader structural factors—such as inflation and access to financial services—better explain cross-country differences in crypto adoption.
+## Methods
 
-The objective is to understand whether cryptocurrency adoption reflects a response to unstable currencies and limited financial infrastructure.
+Part 1: Baseline Model
+Part 2: Regional Differences in Crypto Adoption
+Part 3: Similarity among High-Adoption Countries
+Part 4: Extended Model – Currency Instability and Institutional Factors
 
-## Hypotheses
-- 1.	Countries experiencing higher inflation rates are associated with higher levels of cryptocurrency adoption
-- 2.	Countries with lower access to banking services exhibit higher crypto adoption
-- 3.	Combined indicators of monetary instability and financial access (inflation, bank access, GDP) better explain crypto adoption than any single variable alone
-- 4.	Countries with high crypto adoption cluster into distinct economic profiles based on structural vulnerability
+## Data Sources
 
-## Data Sources 
-	•	World Bank — Youth Unemployment
-	•	World Bank — GDP
-	•	Crypto Adoption Index (2024)
-	•	Financial Inclusion / Banking Access data
-Methods
-- Exploratory Analysis (Scatter Plots)
-Visualize relationships between inflation, financial access, and crypto adoption
-- Correlation Analysis
-Assess strength and direction of relationships
-- Regression Analysis
-Evaluate how inflation, bank access, and GDP jointly explain crypto adoption
-- Clustering
-Identify groups of countries with similar economic conditions
+World Bank — Inflation, GDP per capita, Bank Access
+Chainalysis — Global Crypto Adoption Index (2024)
+Kaggle — Currency Depreciation
+Transparency International — Corruption Perceptions Index (CPI)
