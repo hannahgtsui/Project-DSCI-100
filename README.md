@@ -15,7 +15,7 @@ As traditional financial and economic systems face increasing strain in many par
 - **Transparency International** — Corruption Perceptions Index (CPI)
 
 ## Methods
-This project uses **supervised learning** (linear regression) to predict cryptocurrency adoption scores from economic indicators.
+This project uses supervised learning (linear regression) to predict cryptocurrency adoption scores from economic indicators.
 - Part 1: Baseline Model — Linear regression with inflation, GDP, and bank access
 - Part 2: Regional Differences in Crypto Adoption — Comparing adoption across geographic regions
 - Part 3: Similarity among High-Adoption Countries — Comparing top 25% adopters with all countries
