@@ -9,10 +9,11 @@
 As traditional financial and economic systems face increasing strain in many parts of the world, cryptocurrency has emerged as a potential alternative financial tool. This project examines whether broader forms of economic vulnerability — such as financial exclusion, income levels, macroeconomic instability, and structural differences including corruption — are associated with higher levels of cryptocurrency adoption across countries.
 
 ## Data Sources
-- **World Bank** — Inflation, GDP per capita, Bank Access
-- **Chainalysis** — Global Crypto Adoption Index (2024)
-- **Kaggle** — Currency Depreciation
-- **Transparency International** — Corruption Perceptions Index (CPI)
+- **World Bank**. World Development Indicators(https://databank.worldbank.org/source/world-development-indicators)
+- **Chainalysis**. (2024). The 2024 Global Crypto Adoption Index.(https://www.chainalysis.com/blog/2024-global-crypto-adoption-index/)
+- **Kaggle** — Currency Depreciation(https://www.kaggle.com/datasets/usamabuttar/global-currency-historical-prices-updated-daily)
+- **Transparency International** — Corruption Perceptions Index (CPI)(https://www.transparency.org/en/cpi2024)
+- 
 
 ## Methods
 This project uses supervised learning (linear regression) to predict cryptocurrency adoption scores from economic indicators.
