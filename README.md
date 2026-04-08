@@ -13,7 +13,7 @@ As traditional financial and economic systems face increasing strain in many par
 - **Chainalysis**. (2024). The 2024 Global Crypto Adoption Index.(https://www.chainalysis.com/blog/2024-global-crypto-adoption-index/)
 - **Kaggle** — Currency Depreciation(https://www.kaggle.com/datasets/usamabuttar/global-currency-historical-prices-updated-daily)
 - **Transparency International** — Corruption Perceptions Index (CPI)(https://www.transparency.org/en/cpi2024)
-- 
+
 
 ## Methods
 This project uses supervised learning (linear regression) to predict cryptocurrency adoption scores from economic indicators.
